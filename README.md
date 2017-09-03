@@ -11,6 +11,7 @@
 # 1. Reading List
 
 ## 1.1. 2017 Books
+* Mob Rules: What the Mafia Can Teach The Legitimate Businessman - Louis Ferrante
 * Raise the Bar: An Action-Based Method for Maximum Customer Reactions - Jon Taffer
 * Never Split the Difference: Negotiating As If Your Life Depended On It - Chris Voss
 * The Subtle Art of Not Giving a F*ck - Mark Manson
