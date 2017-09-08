@@ -11,6 +11,7 @@
 # 1. Reading List
 
 ## 1.1. 2017 Books
+* Startup Opportunities: Know When to Quit Your Day Job - Sean Wise and Brad Feld
 * Mob Rules: What the Mafia Can Teach The Legitimate Businessman - Louis Ferrante
 * Raise the Bar: An Action-Based Method for Maximum Customer Reactions - Jon Taffer
 * Never Split the Difference: Negotiating As If Your Life Depended On It - Chris Voss
