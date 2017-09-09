@@ -11,6 +11,7 @@
 # 1. Reading List
 
 ## 1.1. 2017 Books
+* The Amazon Way: 14 Leadership Principles Behind the World's Most Disruptive Company - John Rossman
 * Startup Opportunities: Know When to Quit Your Day Job - Sean Wise and Brad Feld
 * Mob Rules: What the Mafia Can Teach The Legitimate Businessman - Louis Ferrante
 * Raise the Bar: An Action-Based Method for Maximum Customer Reactions - Jon Taffer
