@@ -11,6 +11,7 @@
 # 1. Reading List
 
 ## 1.1. 2017 Books
+* Matchmakers: The New Economics of Multisided Platforms - David S. Evans & Richard Schmalensee
 * Drive: The Surprising Truth About What Motivates Us - Daniel H. Pink
 * The Amazon Way: 14 Leadership Principles Behind the World's Most Disruptive Company - John Rossman
 * Startup Opportunities: Know When to Quit Your Day Job - Sean Wise and Brad Feld
