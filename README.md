@@ -10,7 +10,11 @@
 
 # 1. Reading List
 
+## 2018 Books
+
 ## 1.1. 2017 Books
+* The Founder's Dilemma's - Noam Wasserman
+* Turn the Ship Around - L. David Marquet
 * Matchmakers: The New Economics of Multisided Platforms - David S. Evans & Richard Schmalensee
 * Drive: The Surprising Truth About What Motivates Us - Daniel H. Pink
 * The Amazon Way: 14 Leadership Principles Behind the World's Most Disruptive Company - John Rossman
