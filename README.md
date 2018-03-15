@@ -11,6 +11,12 @@
 # 1. Reading List
 
 ## 2018 Books
+* (WIP) How Leaders Fail by Peter Stark & Mary Kelly
+* (WIP) Good to Great by Jim Collins
+* How Google Works by Alan Eagle, Jonathan Rosenber, and Eric Schmidt
+* Traction
+
+
 
 ## 1.1. 2017 Books
 * The Founder's Dilemma's - Noam Wasserman
