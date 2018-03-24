@@ -12,7 +12,8 @@
 
 ## 2018 Books
 * (WIP) How Leaders Fail by Peter Stark & Mary Kelly
-* (WIP) Good to Great by Jim Collins
+* (WIP) THE Checklist Manifesto
+* Good to Great by Jim Collins
 * How Google Works by Alan Eagle, Jonathan Rosenber, and Eric Schmidt
 * Traction
 
