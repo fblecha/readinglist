@@ -12,10 +12,14 @@
 
 ## 2018 Books
 * (WIP) How Leaders Fail by Peter Stark & Mary Kelly
-* (WIP) THE Checklist Manifesto
+* (WIP) Lean Customer Development: Building Products Your Customers Buy by Cindy Alvarez
+* (WIP) The Matheny Manifest: A Young Manager's Old-School Views on Success in Sports and Life by Mike Matheny and Jerry B. Jenkins
+* (WIP) The Big Short: Inside the Doomsday Machine by Michael Lewis
+* The Industries of the Future by Alec Ross
+* THE Checklist Manifesto by Atul Gawande
 * Good to Great by Jim Collins
 * How Google Works by Alan Eagle, Jonathan Rosenber, and Eric Schmidt
-* Traction
+* Traction: How Any Startup Can Achieve Explosive Customer Growth by Gabriel Weinberg and Justin Mares
 
 
 
