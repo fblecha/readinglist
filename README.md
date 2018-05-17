@@ -11,7 +11,7 @@
 # 1. Reading List
 
 ## 2018 Books
-* (WIP) How Leaders Fail by Peter Stark & Mary Kelly
+* How Leaders Fail by Peter Stark & Mary Kelly
 * (WIP) Lean Customer Development: Building Products Your Customers Buy by Cindy Alvarez
 * (WIP) The Matheny Manifest: A Young Manager's Old-School Views on Success in Sports and Life by Mike Matheny and Jerry B. Jenkins
 * Hooked: How to build Habit-Forming Products by Nir Eyal and Ryan Hoover* 
