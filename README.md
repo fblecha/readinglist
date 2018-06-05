@@ -11,6 +11,7 @@
 # 1. Reading List
 
 ## 2018 Books
+* The Copywriter’s Handbook by Robert W. Blyl
 * How Leaders Fail by Peter Stark & Mary Kelly
 * (WIP) Lean Customer Development: Building Products Your Customers Buy by Cindy Alvarez
 * The Matheny Manifest: A Young Manager's Old-School Views on Success in Sports and Life by Mike Matheny and Jerry B. Jenkins
