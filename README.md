@@ -11,8 +11,11 @@
 # 1. Reading List
 
 ## 2018 Books
-* Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations by Nicole Forsgren PhD and Jez Humble
+* (WIP) Site Reliability Engineering: How Google Runs Production Systems by  Betsy Beyer, Chris Jones, Jennifer Petoff, and Niall Richard Murphy
+* (WIP) Lean Branding: Creating Dynamic Brands to Generate Conversion by Laura Busche 
 * (WIP) Lean Customer Development: Building Products Your Customers Buy by Cindy Alvarez
+* Essentialism: The Disciplined Pursuit of Less by Greg McKeown
+* Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations by Nicole Forsgren PhD and Jez Humble
 * Startup Boards: Getting the Most Out of Your Board of Directors by Brad Feld and Mahendra Ramsinghani
 * The Copywriter’s Handbook by Robert W. Blyl
 * How Leaders Fail by Peter Stark & Mary Kelly
