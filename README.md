@@ -11,7 +11,7 @@
 # 1. Reading List
 
 ## 2018 Books
-* (WIP) The Virgin Way: Everything I Know about Leadership by Richard Branson
+* The Virgin Way: Everything I Know about Leadership by Richard Branson
 * (WIP) Site Reliability Engineering: How Google Runs Production Systems by  Betsy Beyer, Chris Jones, Jennifer Petoff, and Niall Richard Murphy
 * (WIP) Lean Branding: Creating Dynamic Brands to Generate Conversion by Laura Busche 
 * (WIP) Lean Customer Development: Building Products Your Customers Buy by Cindy Alvarez
