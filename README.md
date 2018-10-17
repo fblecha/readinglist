@@ -14,7 +14,7 @@
 
 * (WIP) Site Reliability Engineering: How Google Runs Production Systems by  Betsy Beyer, Chris Jones, Jennifer Petoff, and Niall Richard Murphy
 * (WIP) Lean Branding: Creating Dynamic Brands to Generate Conversion by Laura Busche 
-* (WIP) Lean Customer Development: Building Products Your Customers Buy by Cindy Alvarez
+* Lean Customer Development: Building Products Your Customers Buy by Cindy Alvarez
 * Extreme Ownership: How U.S. Navy SEALs Lead and Win by Jocko Willink and Leif Babin
 * The Virgin Way: Everything I Know about Leadership by Richard Branson
 * Essentialism: The Disciplined Pursuit of Less by Greg McKeown
