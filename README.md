@@ -12,6 +12,7 @@
 
 ## 2018 Books
 
+* (WIP) Behind the Cloud by Marc Benioff and Carlye Adler
 * (WIP) Site Reliability Engineering: How Google Runs Production Systems by  Betsy Beyer, Chris Jones, Jennifer Petoff, and Niall Richard Murphy
 * (WIP) Lean Branding: Creating Dynamic Brands to Generate Conversion by Laura Busche 
 * Lean Customer Development: Building Products Your Customers Buy by Cindy Alvarez
