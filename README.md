@@ -12,7 +12,7 @@
 
 ## 2018 Books
 
-1. (WIP) Behind the Cloud by Marc Benioff and Carlye Adler
+* (WIP) Behind the Cloud by Marc Benioff and Carlye Adler
 * (WIP) Site Reliability Engineering: How Google Runs Production Systems by  Betsy Beyer, Chris Jones, Jennifer Petoff, and Niall Richard Murphy
 * Deep Work: Rules for Focused Success in a Distracted World by Cal Newport
 * Lean Branding: Creating Dynamic Brands to Generate Conversion by Laura Busche 
