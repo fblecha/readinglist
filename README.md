@@ -12,7 +12,8 @@
 
 ## 2018 Books
 
-* (WUP) Team of Teams: New Rules of Engagement for a Complex World by General Stanley McChrystal and Tantum Collins
+* (WIP) Badass - Making Users Awesome by Kathy Sierra
+* Team of Teams: New Rules of Engagement for a Complex World by General Stanley McChrystal and Tantum Collins
 * (WIP) Behind the Cloud by Marc Benioff and Carlye Adler
 * (WIP) Site Reliability Engineering: How Google Runs Production Systems by  Betsy Beyer, Chris Jones, Jennifer Petoff, and Niall Richard Murphy
 * Deep Work: Rules for Focused Success in a Distracted World by Cal Newport
