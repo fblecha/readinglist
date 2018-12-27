@@ -10,12 +10,39 @@
 
 # 1. Reading List
 
-## 2018 Books
+## 2019 Books
 
 * (WIP) Badass - Making Users Awesome by Kathy Sierra
-* Team of Teams: New Rules of Engagement for a Complex World by General Stanley McChrystal and Tantum Collins
 * (WIP) Behind the Cloud by Marc Benioff and Carlye Adler
 * (WIP) Site Reliability Engineering: How Google Runs Production Systems by  Betsy Beyer, Chris Jones, Jennifer Petoff, and Niall Richard Murphy
+
+### Queue
+* Thinking in Systems: A Primer by Donella H. Meadows
+* A Philosophy of Software Design by John Ousterhout
+* Developer Hegemony by Erik Dietrich
+* Subscribed: Why the Subscription Model Will Be Your Company's Future - and What to Do About It by Tien Tzuo
+* The Messy Middle: Finding Your Way Through the Hardest and Most Crucial Part of Any Bold Venture by Scott Belsky
+* The Essential Wooden: A Lifetime of Lessons on Leaders and Leadership by John Wooden
+* The Omnivore's Dilemma: A Natural History of Four Meals by Michael Pollan
+* Crossing the Chasm, 3rd Edition: Marketing and Selling Disruptive Products to Mainstream Customers by Geoffrey A. Moore
+* Discipline Equals Freedom: Field Manual by Jocko Willick
+* Product Roadmaps Relaunched: How to Set Direction while Embracing Uncertainty by Tom Lombardo
+* Why Dinosaurs Matter by Ken Lacovera
+* Principles: Life and Work by Ray Dalio
+* It Doesn't Have to Be Crazy at Work by Jason Fried and David Heinemeier Hansson 
+* Measure What Matters: How Google, Bono, and the Gates Foundation Rock the World with OKRs by John Doerr
+* Leading Digital: Turning Technology into Business Transformation by George Westerman
+* INSPIRED: How to Create Tech Products Customers Love by Marty Cagan
+* Release It!: Design and Deploy Production-Ready Software by Michael Nygard
+* Practical Monitoring: Effective Strategies for the Real World by Mike Julian
+* Effective DevOps: Building a Culture of Collaboration, Affinity, and Tooling at Scale by Jennifer Davis
+* An Everyone Culture: Becoming a Deliberately Developmental Organization by Robert Keegan
+
+
+
+## 2018 Books
+
+* Team of Teams: New Rules of Engagement for a Complex World by General Stanley McChrystal and Tantum Collins
 * Deep Work: Rules for Focused Success in a Distracted World by Cal Newport
 * Lean Branding: Creating Dynamic Brands to Generate Conversion by Laura Busche 
 * Lean Customer Development: Building Products Your Customers Buy by Cindy Alvarez
