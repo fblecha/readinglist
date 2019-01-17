@@ -17,6 +17,7 @@
 * (WIP) Behind the Cloud by Marc Benioff and Carlye Adler
 * (WIP) Site Reliability Engineering: How Google Runs Production Systems by  Betsy Beyer, Chris Jones, Jennifer Petoff, and Niall Richard Murphy
 * All Marketers Are Liars: The Power of Telling Authentic Stories in a Low-Trust World by Seth Godin
+* Narconomics: How to Run a Drug Cartel by Tom Wainwright
 ### Queue
 * Thinking in Systems: A Primer by Donella H. Meadows
 * A Philosophy of Software Design by John Ousterhout
