@@ -11,14 +11,17 @@
 <!-- /TOC -->
 
 # 1. Reading List
+(@) = via Audible
 
 ## 1.1. 2019 Books
 * (WIP) Badass - Making Users Awesome by Kathy Sierra
+* (WIP) (@) Narconomics: How to Run a Drug Cartel by Tom Wainwright
+* Discipline Equals Freedom: Field Manual by Jocko Willick
 * Behind the Cloud by Marc Benioff and Carlye Adler
-* (WIP) Site Reliability Engineering: How Google Runs Production Systems by  Betsy Beyer, Chris Jones, Jennifer Petoff, and Niall Richard Murphy
-* All Marketers Are Liars: The Power of Telling Authentic Stories in a Low-Trust World by Seth Godin
-* Narconomics: How to Run a Drug Cartel by Tom Wainwright
+* (@) All Marketers Are Liars: The Power of Telling Authentic Stories in a Low-Trust World by Seth Godin
+
 ### Queue
+* (WIP) Site Reliability Engineering: How Google Runs Production Systems by  Betsy Beyer, Chris Jones, Jennifer Petoff, and Niall Richard Murphy
 * Thinking in Systems: A Primer by Donella H. Meadows
 * A Philosophy of Software Design by John Ousterhout
 * Developer Hegemony by Erik Dietrich
@@ -27,7 +30,6 @@
 * The Essential Wooden: A Lifetime of Lessons on Leaders and Leadership by John Wooden
 * The Omnivore's Dilemma: A Natural History of Four Meals by Michael Pollan
 * Crossing the Chasm, 3rd Edition: Marketing and Selling Disruptive Products to Mainstream Customers by Geoffrey A. Moore
-* Discipline Equals Freedom: Field Manual by Jocko Willick
 * Product Roadmaps Relaunched: How to Set Direction while Embracing Uncertainty by Tom Lombardo
 * Why Dinosaurs Matter by Ken Lacovera
 * Principles: Life and Work by Ray Dalio
