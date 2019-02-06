@@ -15,7 +15,7 @@
 
 ## 1.1. 2019 Books
 * (WIP) Badass - Making Users Awesome by Kathy Sierra
-* (WIP) Blitzscaling: The Lightning-Fast Path to Building Massively Valuable Companies by Reid Hoffman and Chris Yeh
+* (WIP) (@) Blitzscaling: The Lightning-Fast Path to Building Massively Valuable Companies by Reid Hoffman and Chris Yeh
 * (@) Narconomics: How to Run a Drug Cartel by Tom Wainwright
 * Discipline Equals Freedom: Field Manual by Jocko Willick
 * Behind the Cloud by Marc Benioff and Carlye Adler
