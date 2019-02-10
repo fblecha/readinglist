@@ -14,8 +14,9 @@
 (@) = via Audible
 
 ## 1.1. 2019 Books
-* (WIP) Badass - Making Users Awesome by Kathy Sierra
+* (WIP) Functional Swift by Chris Eidhof, Florian Kugler, Wouter Swierstra
 * (WIP) (@) Blitzscaling: The Lightning-Fast Path to Building Massively Valuable Companies by Reid Hoffman and Chris Yeh
+* Badass - Making Users Awesome by Kathy Sierra
 * (@) Narconomics: How to Run a Drug Cartel by Tom Wainwright
 * Discipline Equals Freedom: Field Manual by Jocko Willick
 * Behind the Cloud by Marc Benioff and Carlye Adler
