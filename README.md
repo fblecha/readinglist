@@ -14,8 +14,9 @@
 (@) = via Audible
 
 ## 1.1. 2019 Books
-* (WIP) Functional Swift by Chris Eidhof, Florian Kugler, Wouter Swierstra
+* (WIP) Why Dinosaurs Matter by Ken Lacovera
 * (WIP) (@) Blitzscaling: The Lightning-Fast Path to Building Massively Valuable Companies by Reid Hoffman and Chris Yeh
+* Functional Swift by Chris Eidhof, Florian Kugler, Wouter Swierstra
 * Badass - Making Users Awesome by Kathy Sierra
 * (@) Narconomics: How to Run a Drug Cartel by Tom Wainwright
 * Discipline Equals Freedom: Field Manual by Jocko Willick
@@ -33,7 +34,6 @@
 * The Omnivore's Dilemma: A Natural History of Four Meals by Michael Pollan
 * Crossing the Chasm, 3rd Edition: Marketing and Selling Disruptive Products to Mainstream Customers by Geoffrey A. Moore
 * Product Roadmaps Relaunched: How to Set Direction while Embracing Uncertainty by Tom Lombardo
-* Why Dinosaurs Matter by Ken Lacovera
 * Principles: Life and Work by Ray Dalio
 * It Doesn't Have to Be Crazy at Work by Jason Fried and David Heinemeier Hansson 
 * Measure What Matters: How Google, Bono, and the Gates Foundation Rock the World with OKRs by John Doerr
