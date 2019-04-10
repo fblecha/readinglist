@@ -15,6 +15,7 @@
 
 ## 1.1. 2019 Books
 * (WIP) Why Dinosaurs Matter by Ken Lacovera
+* (@) To Sell Is Human: The Surprising Truth About Moving Others by Dan Pink
 * (@) The Startup Way by Eric Ries
 * (@) Blitzscaling: The Lightning-Fast Path to Building Massively Valuable Companies by Reid Hoffman and Chris Yeh
 * Functional Swift by Chris Eidhof, Florian Kugler, Wouter Swierstra
