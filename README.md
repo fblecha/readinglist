@@ -15,7 +15,8 @@
 
 ## 1.1. 2019 Books
 * (WIP) Why Dinosaurs Matter by Ken Lacovera
-* (WIP) (@) It's Your Ship: Management Techniques from the Best Damn Ship in the Navy by D. Michael Abrashoff
+* Company on One - Why Staying Small is the Next Big Thing by Paul Jarvis
+* (@) It's Your Ship: Management Techniques from the Best Damn Ship in the Navy by D. Michael Abrashoff
 * (@) Contagious: Why Things Catch On by Jonah Berger
 * Just Shut Up and Do it! 7 Steps to Conquer Your Goals by Brian Tracy
 * How to be a Capitalist without any Capital by Nathan Latka
