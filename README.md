@@ -15,6 +15,7 @@
 
 ## 1.1. 2019 Books
 * (WIP) Why Dinosaurs Matter by Ken Lacovera
+* (@) Sam Walton by Sam Walton
 * Company on One - Why Staying Small is the Next Big Thing by Paul Jarvis
 * (@) It's Your Ship: Management Techniques from the Best Damn Ship in the Navy by D. Michael Abrashoff
 * (@) Contagious: Why Things Catch On by Jonah Berger
