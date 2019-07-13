@@ -15,6 +15,7 @@
 
 ## 1.1. 2019 Books
 * (WIP) Why Dinosaurs Matter by Ken Lacovera
+* Incident Management for Operations by Rob chnepp, Ron Vidal & Chris Hawley
 * it doesnt have to be crazy at work by jason fried and david heinemeier hansson 
 * (@) Sam Walton by Sam Walton
 * Company on One - Why Staying Small is the Next Big Thing by Paul Jarvis
