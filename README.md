@@ -15,7 +15,7 @@
 
 ## 1.1. 2019 Books
 * (WIP) The Essential Wooden: A Lifetime of Lessons on Leaders and Leadership by John Wooden & Steve Jamison
-* Incident Management for Operations by Rob chnepp, Ron Vidal & Chris Hawley
+* Incident Management for Operations by Rob Schnepp, Ron Vidal & Chris Hawley
 * it doesnt have to be crazy at work by jason fried and david heinemeier hansson 
 * (@) Sam Walton by Sam Walton
 * Company on One - Why Staying Small is the Next Big Thing by Paul Jarvis
