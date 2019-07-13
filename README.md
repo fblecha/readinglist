@@ -14,7 +14,6 @@
 (@) = via Audible
 
 ## 1.1. 2019 Books
-* (WIP) Why Dinosaurs Matter by Ken Lacovera
 * Incident Management for Operations by Rob chnepp, Ron Vidal & Chris Hawley
 * it doesnt have to be crazy at work by jason fried and david heinemeier hansson 
 * (@) Sam Walton by Sam Walton
@@ -34,6 +33,7 @@
 * (@) All Marketers Are Liars: The Power of Telling Authentic Stories in a Low-Trust World by Seth Godin
 
 ### Queue
+* (WIP) Why Dinosaurs Matter by Ken Lacovera
 * (WIP) Site Reliability Engineering: How Google Runs Production Systems by  Betsy Beyer, Chris Jones, Jennifer Petoff, and Niall Richard Murphy
 * Thinking in Systems: A Primer by Donella H. Meadows
 * A Philosophy of Software Design by John Ousterhout
