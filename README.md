@@ -14,7 +14,7 @@
 (@) = via Audible
 
 ## 1.1. 2019 Books
-* (WIP) The Essential Wooden: A Lifetime of Lessons on Leaders and Leadership by John Wooden & Steve Jamison
+* The Essential Wooden: A Lifetime of Lessons on Leaders and Leadershipby by John Wooden and Steve Jamison
 * Disrupted by Dan Lyons
 * Incident Management for Operations by Rob Schnepp, Ron Vidal & Chris Hawley
 * it doesnt have to be crazy at work by jason fried and david heinemeier hansson 
@@ -42,7 +42,6 @@
 * Developer Hegemony by Erik Dietrich
 * Subscribed: Why the Subscription Model Will Be Your Company's Future - and What to Do About It by Tien Tzuo
 * The Messy Middle: Finding Your Way Through the Hardest and Most Crucial Part of Any Bold Venture by Scott Belsky
-* The Essential Wooden: A Lifetime of Lessons on Leaders and Leadership by John Wooden
 * The Omnivore's Dilemma: A Natural History of Four Meals by Michael Pollan
 * Crossing the Chasm, 3rd Edition: Marketing and Selling Disruptive Products to Mainstream Customers by Geoffrey A. Moore
 * Product Roadmaps Relaunched: How to Set Direction while Embracing Uncertainty by Tom Lombardo
