@@ -14,6 +14,8 @@
 (@) = via Audible
 
 ## 1.1. 2019 Books
+* (WIP) The Fixer: My Adventures Saving Startups from Death by Politics by Bradley Tusk
+* (@) The Dictator's Handbook: Why Bad Behavior is Almost Always Good Politics by Bueno de Mesquita, Bruce and Alastair Smith
 * The Essential Wooden: A Lifetime of Lessons on Leaders and Leadershipby by John Wooden and Steve Jamison
 * Disrupted by Dan Lyons
 * Incident Management for Operations by Rob Schnepp, Ron Vidal & Chris Hawley
