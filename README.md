@@ -14,12 +14,13 @@
 (@) = via Audible
 
 ## 1.1. 2019 Books
-* (WIP) The Fixer: My Adventures Saving Startups from Death by Politics by Bradley Tusk
+* (WIP) What to Eat When: A Strategic Plan to Improve Your Health and Life Through Food 1st Edition by Michael Roizen, Michael Crupain, Ted Spiker
+* The Fixer: My Adventures Saving Startups from Death by Politics by Bradley Tusk
 * (@) The Dictator's Handbook: Why Bad Behavior is Almost Always Good Politics by Bueno de Mesquita, Bruce and Alastair Smith
 * The Essential Wooden: A Lifetime of Lessons on Leaders and Leadershipby by John Wooden and Steve Jamison
 * Disrupted by Dan Lyons
 * Incident Management for Operations by Rob Schnepp, Ron Vidal & Chris Hawley
-* it doesnt have to be crazy at work by jason fried and david heinemeier hansson 
+* It Doesn't Have to Be Crazy at Work by Jason Fried and David Heinemeier Hansson 
 * (@) Sam Walton by Sam Walton
 * Company on One - Why Staying Small is the Next Big Thing by Paul Jarvis
 * (@) It's Your Ship: Management Techniques from the Best Damn Ship in the Navy by D. Michael Abrashoff
@@ -48,7 +49,6 @@
 * Crossing the Chasm, 3rd Edition: Marketing and Selling Disruptive Products to Mainstream Customers by Geoffrey A. Moore
 * Product Roadmaps Relaunched: How to Set Direction while Embracing Uncertainty by Tom Lombardo
 * Principles: Life and Work by Ray Dalio
-* It Doesn't Have to Be Crazy at Work by Jason Fried and David Heinemeier Hansson 
 * Measure What Matters: How Google, Bono, and the Gates Foundation Rock the World with OKRs by John Doerr
 * Leading Digital: Turning Technology into Business Transformation by George Westerman
 * INSPIRED: How to Create Tech Products Customers Love by Marty Cagan
