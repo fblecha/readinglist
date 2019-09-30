@@ -14,7 +14,7 @@
 (@) = via Audible
 
 ## 1.1. 2019 Books
-* (WIP) What to Eat When: A Strategic Plan to Improve Your Health and Life Through Food 1st Edition by Michael Roizen, Michael Crupain, Ted Spiker
+
 * The Fixer: My Adventures Saving Startups from Death by Politics by Bradley Tusk
 * (@) The Dictator's Handbook: Why Bad Behavior is Almost Always Good Politics by Bueno de Mesquita, Bruce and Alastair Smith
 * The Essential Wooden: A Lifetime of Lessons on Leaders and Leadershipby by John Wooden and Steve Jamison
