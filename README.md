@@ -1,19 +1,10 @@
-<!-- TOC -->
-
-- [1. Reading List](#1-reading-list)
-    - [1.1. 2019 Books](#11-2019-books)
-    - [1.2. 2018 Books](#12-2018-books)
-    - [1.3. 2017 Books](#13-2017-books)
-    - [1.4. 2016 Books](#14-2016-books)
-    - [1.5. 2015 Books](#15-2015-books)
-    - [1.6. 2014 Books](#16-2014-books)
-
-<!-- /TOC -->
-
-# 1. Reading List
+# Reading List
 (@) = via Audible
 
-## 1.1. 2019 Books
+## 2020 Books
+* (WIP) We Fed an Island by Jose Andres
+
+## 2019 Books
 
 * The Fixer: My Adventures Saving Startups from Death by Politics by Bradley Tusk
 * (@) The Dictator's Handbook: Why Bad Behavior is Almost Always Good Politics by Bueno de Mesquita, Bruce and Alastair Smith
@@ -37,28 +28,7 @@
 * Behind the Cloud by Marc Benioff and Carlye Adler
 * (@) All Marketers Are Liars: The Power of Telling Authentic Stories in a Low-Trust World by Seth Godin
 
-### Queue
-* (WIP) Why Dinosaurs Matter by Ken Lacovera
-* (WIP) Site Reliability Engineering: How Google Runs Production Systems by  Betsy Beyer, Chris Jones, Jennifer Petoff, and Niall Richard Murphy
-* Thinking in Systems: A Primer by Donella H. Meadows
-* A Philosophy of Software Design by John Ousterhout
-* Developer Hegemony by Erik Dietrich
-* Subscribed: Why the Subscription Model Will Be Your Company's Future - and What to Do About It by Tien Tzuo
-* The Messy Middle: Finding Your Way Through the Hardest and Most Crucial Part of Any Bold Venture by Scott Belsky
-* The Omnivore's Dilemma: A Natural History of Four Meals by Michael Pollan
-* Crossing the Chasm, 3rd Edition: Marketing and Selling Disruptive Products to Mainstream Customers by Geoffrey A. Moore
-* Product Roadmaps Relaunched: How to Set Direction while Embracing Uncertainty by Tom Lombardo
-* Principles: Life and Work by Ray Dalio
-* Measure What Matters: How Google, Bono, and the Gates Foundation Rock the World with OKRs by John Doerr
-* Leading Digital: Turning Technology into Business Transformation by George Westerman
-* INSPIRED: How to Create Tech Products Customers Love by Marty Cagan
-* Release It!: Design and Deploy Production-Ready Software by Michael Nygard
-* Practical Monitoring: Effective Strategies for the Real World by Mike Julian
-* Effective DevOps: Building a Culture of Collaboration, Affinity, and Tooling at Scale by Jennifer Davis
-* An Everyone Culture: Becoming a Deliberately Developmental Organization by Robert Keegan
-
-
-## 1.2. 2018 Books
+## 2018 Books
 * Team of Teams: New Rules of Engagement for a Complex World by General Stanley McChrystal and Tantum Collins
 * Deep Work: Rules for Focused Success in a Distracted World by Cal Newport
 * Lean Branding: Creating Dynamic Brands to Generate Conversion by Laura Busche 
@@ -81,7 +51,7 @@
 
 
 
-## 1.3. 2017 Books
+## 2017 Books
 * The Founder's Dilemma's - Noam Wasserman
 * Turn the Ship Around - L. David Marquet
 * Matchmakers: The New Economics of Multisided Platforms - David S. Evans & Richard Schmalensee
@@ -96,21 +66,21 @@
 * The Only Rule Is It Has To Work: Our Wild Experiment Building a New Kind of Baseball Team - Ben Lindbergh
 * AWS Certified Solutions Architect Offical Study Guide
 
-## 1.4. 2016 Books
+## 2016 Books
 * Growth Hacker Marketing: A Primer on the Future of PR, Marketing, and Advertising - Ryan Holiday
 * Do More Faster: TechStarts Lessons to Accelerate Your Startup - Brad Feld
 * Media Planning - From Recency to Engagement - Erwin Ephron
 * PostgreSQL: Up and Running: A Practical Introduction to the Advanced Open Source Database - Regina O. Obe
 * Work Rules!: Insights from Inside Google that Will Transform How You Live and Lead - Laszlo Bock
 
-## 1.5. 2015 Books
+## 2015 Books
 * The Healing of America: A Global Question for Better, Cheaper, and Fairer Health Care - T.R. Reid
 * Speaking JavaScript: An In-Depth Guide for Programmers - Axel Rauschmayer
 * Web Development with Node and Express: Leveraging the JavaScript Stack - Ethan Brown
 * The Toyota Way: 14 Management Principles from the World's Greatest Manufacturer
 * Knife Fights: A Memoir of Modern War in Theory and Practice - John Nagl
 
-## 1.6. 2014 Books 
+## 2014 Books 
 * The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win - Gene Kim, Kevin Behr, and George Spafford
 * Scala for the Impatient - Cay S. Horstmann
 * Zero to One: Notes on Startups, or How to Build the Future - Peter Thiel and Blake Masters
