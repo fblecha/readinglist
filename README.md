@@ -3,30 +3,32 @@
 
 ## 2020 Books
 * (WIP) We Fed an Island by Jose Andres
+* (WIP) @ Indistractable by Nir Eyal and Julie Li
+* @ Verbal Juda, Updated Edition by George J. Thompson PhD and Jerry B. Jenkins
 
 ## 2019 Books
 
 * The Fixer: My Adventures Saving Startups from Death by Politics by Bradley Tusk
-* (@) The Dictator's Handbook: Why Bad Behavior is Almost Always Good Politics by Bueno de Mesquita, Bruce and Alastair Smith
+* @ The Dictator's Handbook: Why Bad Behavior is Almost Always Good Politics by Bueno de Mesquita, Bruce and Alastair Smith
 * The Essential Wooden: A Lifetime of Lessons on Leaders and Leadershipby by John Wooden and Steve Jamison
 * Disrupted by Dan Lyons
 * Incident Management for Operations by Rob Schnepp, Ron Vidal & Chris Hawley
 * It Doesn't Have to Be Crazy at Work by Jason Fried and David Heinemeier Hansson 
-* (@) Sam Walton by Sam Walton
+* @ Sam Walton by Sam Walton
 * Company on One - Why Staying Small is the Next Big Thing by Paul Jarvis
-* (@) It's Your Ship: Management Techniques from the Best Damn Ship in the Navy by D. Michael Abrashoff
-* (@) Contagious: Why Things Catch On by Jonah Berger
+* @ It's Your Ship: Management Techniques from the Best Damn Ship in the Navy by D. Michael Abrashoff
+* @ Contagious: Why Things Catch On by Jonah Berger
 * Just Shut Up and Do it! 7 Steps to Conquer Your Goals by Brian Tracy
 * How to be a Capitalist without any Capital by Nathan Latka
-* (@) To Sell Is Human: The Surprising Truth About Moving Others by Dan Pink
-* (@) The Startup Way by Eric Ries
-* (@) Blitzscaling: The Lightning-Fast Path to Building Massively Valuable Companies by Reid Hoffman and Chris Yeh
+* @ To Sell Is Human: The Surprising Truth About Moving Others by Dan Pink
+* @ The Startup Way by Eric Ries
+* @ Blitzscaling: The Lightning-Fast Path to Building Massively Valuable Companies by Reid Hoffman and Chris Yeh
 * Functional Swift by Chris Eidhof, Florian Kugler, Wouter Swierstra
 * Badass - Making Users Awesome by Kathy Sierra
-* (@) Narconomics: How to Run a Drug Cartel by Tom Wainwright
+* @ Narconomics: How to Run a Drug Cartel by Tom Wainwright
 * Discipline Equals Freedom: Field Manual by Jocko Willick
 * Behind the Cloud by Marc Benioff and Carlye Adler
-* (@) All Marketers Are Liars: The Power of Telling Authentic Stories in a Low-Trust World by Seth Godin
+* @ All Marketers Are Liars: The Power of Telling Authentic Stories in a Low-Trust World by Seth Godin
 
 ## 2018 Books
 * Team of Teams: New Rules of Engagement for a Complex World by General Stanley McChrystal and Tantum Collins
