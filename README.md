@@ -4,7 +4,7 @@
 ## 2020 Books
 * (WIP) @ Indistractable by Nir Eyal and Julie Li
 * We Fed an Island: The True Story of Rebuilding Puerto Rico, One Meal at a Time by Jose Andres
-* @ Verbal Juda, Updated Edition by George J. Thompson PhD and Jerry B. Jenkins
+* @ Verbal Judo, Updated Edition by George J. Thompson PhD and Jerry B. Jenkins
 
 ## 2019 Books
 
