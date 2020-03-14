@@ -2,7 +2,10 @@
 (@) = via Audible
 
 ## 2020 Books
-* (WIP) @ Indistractable by Nir Eyal and Julie Li
+* (WIP) The Unicorn Project
+* (WIP) @ Can't Hurt Me by David Goggins
+* @ Shoe Dog by Phil Knight
+* @ Indistractable by Nir Eyal and Julie Li
 * We Fed an Island: The True Story of Rebuilding Puerto Rico, One Meal at a Time by Jose Andres
 * @ Verbal Judo, Updated Edition by George J. Thompson PhD and Jerry B. Jenkins
 
