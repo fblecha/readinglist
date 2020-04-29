@@ -3,7 +3,7 @@
 
 ## 2020 Books
 * (WIP) The Unicorn Project
-* (WIP) @ Can't Hurt Me by David Goggins
+* @ Can't Hurt Me by David Goggins
 * @ Shoe Dog by Phil Knight
 * @ Indistractable by Nir Eyal and Julie Li
 * We Fed an Island: The True Story of Rebuilding Puerto Rico, One Meal at a Time by Jose Andres
