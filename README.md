@@ -2,7 +2,8 @@
 (@) = via Audible
 
 ## 2020 Books
-* (WIP) The Unicorn Project
+* (WIP) @ The Everything Store by Brad Stone
+* The Unicorn Project by Gene Kim
 * @ Can't Hurt Me by David Goggins
 * @ Shoe Dog by Phil Knight
 * @ Indistractable by Nir Eyal and Julie Li
