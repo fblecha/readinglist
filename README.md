@@ -3,6 +3,8 @@
 
 ## 2020 Books
 * (WIP) @ The Everything Store by Brad Stone
+* (WIP) The Cubs Way: The Zen of Building the Best Team in Baseball and Breaking the Curse by Tom Verducci
+* Thinking in Bets: Making Smarter Decisions When You Don't Have All the Facts by Annie Duke
 * The 10 Stories Great Leaders Tell by Paul Smith
 * Functional Swift: Updated for Swift 4 by Chris Eidhof, Florian Kugler, Wouter Swierstra
 * Subscribed: Why the Subscription Model Will Be Your Company's Future - and What to Do About It by Tien Tzuo and Gabe Weisert
