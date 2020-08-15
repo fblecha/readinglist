@@ -3,6 +3,7 @@
 
 ## 2020 Books
 * (WIP) The Cubs Way: The Zen of Building the Best Team in Baseball and Breaking the Curse by Tom Verducci
+* The War on Normal People: The Truth About America's Disappearing Jobs and Why Universal Basic Income Is Our Future by Andrew Yang
 * @ The Everything Store by Brad Stone
 * Thinking in Bets: Making Smarter Decisions When You Don't Have All the Facts by Annie Duke
 * The 10 Stories Great Leaders Tell by Paul Smith
